@@ -1,5 +1,5 @@
 {
-  "name": "dev-website",
+  "name": "network-for-devs",
   "version": "1.0.0",
   "description": "social network for devs",
   "main": "server.js",
